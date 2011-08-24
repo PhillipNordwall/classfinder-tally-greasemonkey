@@ -1,7 +1,8 @@
 h2. WWU Classfinder Tally Greasemonkey Script
 
 This Greasemonkey script tallies the the information below for all of the results on a Western Washington University Classfinder search and presents it in a popup.
-#Total Seats
-#Occupied Seats
-#Available Seats
-#Occupancy %
+
+# Total Seats
+# Occupied Seats
+# Available Seats
+# Occupancy %
